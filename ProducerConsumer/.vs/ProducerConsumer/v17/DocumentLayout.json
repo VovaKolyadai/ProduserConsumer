@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ProduserConsumer\\ProducerConsumer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A301E0C0-C33B-499A-9A12-A9F9697DA59E}|ProducerConsumer\\ProducerConsumer.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\produserconsumer\\producerconsumer\\producerconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A301E0C0-C33B-499A-9A12-A9F9697DA59E}|ProducerConsumer\\ProducerConsumer.csproj|solutionrelative:producerconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4271DF69-EC15-4C90-8147-E76601AD42B3}|ProdConsum\\ProdConsum.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\produserconsumer\\producerconsumer\\prodconsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4271DF69-EC15-4C90-8147-E76601AD42B3}|ProdConsum\\ProdConsum.csproj|solutionrelative:prodconsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4271DF69-EC15-4C90-8147-E76601AD42B3}|ProdConsum\\ProdConsum.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\produserconsumer\\producerconsumer\\prodconsum\\safestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4271DF69-EC15-4C90-8147-E76601AD42B3}|ProdConsum\\ProdConsum.csproj|solutionrelative:prodconsum\\safestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SafeStack.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ProduserConsumer\\ProducerConsumer\\ProdConsum\\SafeStack.cs",
+              "RelativeDocumentMoniker": "ProdConsum\\SafeStack.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ProduserConsumer\\ProducerConsumer\\ProdConsum\\SafeStack.cs",
+              "RelativeToolTip": "ProdConsum\\SafeStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwEwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:28:46.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ProduserConsumer\\ProducerConsumer\\ProducerConsumer\\Program.cs",
-              "RelativeDocumentMoniker": "ProducerConsumer\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ProduserConsumer\\ProducerConsumer\\ProducerConsumer\\Program.cs",
-              "RelativeToolTip": "ProducerConsumer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ProduserConsumer\\ProducerConsumer\\ProdConsum\\Program.cs",
+              "RelativeDocumentMoniker": "ProdConsum\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\ProduserConsumer\\ProducerConsumer\\ProdConsum\\Program.cs",
+              "RelativeToolTip": "ProdConsum\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwEEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T18:41:41.761Z",
+              "WhenOpened": "2025-01-10T17:05:16.41Z",
               "EditorCaption": ""
             }
           ]
